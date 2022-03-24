@@ -1,1 +1,1 @@
-# depp-learning_hw
+# deep-learning_hw
