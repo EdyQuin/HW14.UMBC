@@ -1,2 +1,2 @@
-# Depp Learning
+# Deep Learning
 + Stock Predictor
